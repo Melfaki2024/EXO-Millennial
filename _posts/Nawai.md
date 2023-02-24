@@ -1,25 +1,35 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Nowaii"
+author: "Anon"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: Nowaii_Design.jpg
 ---
 
-# Markdown Support
+# Character Description
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+Still need!
 
-## Basic Formatting
+# Weapon: Bow
 
+Still need!
+
+
+# Weapon: Flute
+
+Still need!
+
+
+
+<!-- 
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
 
 ## Paragraphs
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<!-- This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. -->
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<!-- Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
 
 ## Headings
@@ -154,4 +164,4 @@ More information on Markdown can be found at the following links:
 - [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
-- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists) --> -->
