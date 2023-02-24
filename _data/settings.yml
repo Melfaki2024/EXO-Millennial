@@ -1,18 +1,18 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'Project Name: Exo-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: 'Story',      url: 'documentation'}
+- {name: 'Main Characters',       url: 'sample-posts'}
+- {name: 'Next Up', url: 'resources'}
 - {name: 'Contact',            url: 'contact'}
+- {name: 'Site Info',              url: 'about'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
