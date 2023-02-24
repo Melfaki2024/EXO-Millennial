@@ -4,7 +4,7 @@ title: "Next up: Ezra"
 author: "Anon"
 categories: resources
 tags: [documentation,sample]
-image: Ezra_rough.JPEG
+image: Ezra_rough.jpg
 ---
 
 # New characters
