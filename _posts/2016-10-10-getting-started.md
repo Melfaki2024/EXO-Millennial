@@ -15,3 +15,8 @@ Still need!
 ## Weapon: Horus
 
 Still need!
+
+
+## Initial Design
+
+<img src = /Users/mostafa/MyWork/EXO-Millennial/assets/img/Kai_Initial.JPG, alt = "initial design", size = 200>
