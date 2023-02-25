@@ -2,8 +2,8 @@
 layout: post
 title: "Kai"
 author: "Anon"
-categories: documentation
-tags: [documentation,sample]
+categories: sample
+tags: [sample]
 image: Kai_Design.jpg
 ---
 
