@@ -15,11 +15,7 @@ layout: default
     </div>
   {% endif %}
   <article>
-    {{ content }
-    <div class = "initial">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image2 }}">
-    </div>
-    }
+    {{ content }}
   </article>
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
