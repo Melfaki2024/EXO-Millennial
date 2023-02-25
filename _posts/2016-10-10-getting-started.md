@@ -5,7 +5,7 @@ author: "Anon"
 categories: documentation
 tags: [documentation,sample]
 image: Kai_Design.jpg
-image: Kai_Initial.JPG
+image2: Kai_Initial.JPG
 ---
 
 # Character Description
