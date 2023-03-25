@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Main Characters
 category: sample
 permalink: /sample-posts
 ---
