@@ -9,9 +9,13 @@ image: aizik_character_design.jpg
 
 # Character Description
 
+Still need!
+
 
 
 # Mark of the Unseen
+
+Still need!
 
 
 
