@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kai"
+title: "Kai Tar-Kel"
 author: "Anon"
 categories: sample
 tags: [sample]

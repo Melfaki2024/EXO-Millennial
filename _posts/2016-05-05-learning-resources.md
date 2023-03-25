@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Next up: Ezra"
+title: "Aizik"
 author: "Anon"
 categories: resources
 tags: [documentation,sample]
-image: Ezra_rough.jpg
+image: aizik_character_design.jpg
 ---
 
-# New characters
+# Character Description
 
-The world of Exo is ever-expanding...
+
+
+# Mark of the Unseen
 
 
 
