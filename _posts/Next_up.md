@@ -2,7 +2,7 @@
 layout: post
 title: "Next up: Yasha"
 author: "Anon"
-categories: sample
+categories: resources
 tags: [documentation,sample]
 image: Yasha_rough.jpg
 ---
