@@ -2,8 +2,8 @@
 layout: post
 title: "Aizik"
 author: "Anon"
-categories: resources
-tags: [sample]
+categories: sample
+tags: [documentation,sample]
 image: aizik_character_design.jpg
 ---
 
