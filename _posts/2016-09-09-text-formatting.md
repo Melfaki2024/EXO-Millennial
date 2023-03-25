@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nowaii Zor-Kel"
+title: "Nowaii"
 author: "Anon"
 categories: sample
 tags: [sample]
