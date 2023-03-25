@@ -1,21 +1,14 @@
 ---
 layout: post
-title: "Aizik"
+title: "Next up: Yasha"
 author: "Anon"
-categories: sample
+categories: resources
 tags: [documentation,sample]
-image: aizik_character_design.jpg
+image: Yasha_rough.jpg
 ---
 
-# Character Description
 
-Still need!
-
-
-
-# Mark of the Unseen
-
-Still need!
+# The world of EXO is ever expanding...
 
 
 
