@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: The Rough Story
 category: documentation
 permalink: /documentation
 ---
